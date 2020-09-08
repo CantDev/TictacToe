@@ -2,10 +2,13 @@
     padding: 3em;
     text-align: center;
 }
+
+
 .row > div {
     float: left;
     height: 100px;
     width: 100px;
+    cursor: pointer;
 }
 .row {
     clear: both;
